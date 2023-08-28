@@ -1,0 +1,58 @@
+body{
+    max-height: 2000px;
+    max-width: 900px;
+    margin: auto;
+    border: 2px solid black;
+    
+}
+.heading{
+    background-color:rgb(255, 255, 255)
+}
+.heading img {
+    margin: 10px;
+    margin-left: 52px;
+    height: 200px;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+.heading{
+    display: flex;
+}
+.heading span {
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.heading h3{
+    margin-left: 35px;
+}
+table img{
+    height: 25px;
+}
+.content div{
+    display: flex;
+}
+.leftway{
+    background-color:white;
+    max-width: 350px;
+    max-height: 1000px;
+   
+}
+
+.leftway a{
+    margin-left: 10px;
+    text-decoration: none;
+}
+.leftway h3{
+    margin-left: 30px;
+    font-size: 25px;
+}
+.leftway table{
+    margin: 15px 10px 100px 10px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(241, 241, 241);
+    text-decoration: none;
+  }
