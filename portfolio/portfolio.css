@@ -56,3 +56,7 @@ footer {
     background-color: rgb(241, 241, 241);
     text-decoration: none;
   }
+
+a:hover {
+    background-color: yellow;
+}
